@@ -1,0 +1,6 @@
+Fecha: 10/08/2021 
+Estudiante: Andres Felipe Salazar Rojas
+Asignatura: Computacion Grafica
+
+Nota: Trabajos correspondientes a OpenGl pendientes por ser subidos a github debido 
+a problemas de compatibilidad con el programa.
